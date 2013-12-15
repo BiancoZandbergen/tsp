@@ -7,7 +7,7 @@ The graph of the cities must be euclidean.
 
 Usage
 -----
-application <number of cities> <adjacency matrix file>
+application &lt;number of cities&gt; &lt;adjacency matrix file&gt;
 
 Exhaustive Algorithm
 --------------------
